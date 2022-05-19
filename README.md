@@ -1,3 +1,10 @@
+# Web Weather Application
+
+<img src="/screen.png" alt="exemplo imagem">
+
+> This simple web application informs you about the desired location, current temperature, wind chill, humidity and wind speed.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
