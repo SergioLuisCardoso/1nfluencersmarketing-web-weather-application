@@ -1,6 +1,6 @@
 # Web Weather Application
 
-<img src="/screen.png" alt="exemplo imagem">
+<img src="./src/assets/screen.jpg" alt="exemplo imagem">
 
 > This simple web application informs you about the desired location, current temperature, wind chill, humidity and wind speed.
 
